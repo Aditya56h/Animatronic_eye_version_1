@@ -37,3 +37,7 @@ These eye blink and movement detections are then sent as commands to the Arduino
 To use this project, you need to have the hardware components set up correctly, with the Arduino connected to the servo motor and the computer, and the webcam connected to the computer.
 
 You also need to have Python installed on your computer, along with the OpenCV library. The Python script should be run on the computer, and the Arduino should be programmed to receive serial commands and control the servo motor accordingly.
+
+## References
+This project is inspired by and uses STL files from Will Cogley's original animatronic eye project. His work has been a great resource and inspiration in the development of this project.
+
